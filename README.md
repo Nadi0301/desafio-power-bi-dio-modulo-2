@@ -30,3 +30,5 @@ O relatório foi estruturado em duas páginas para análise executiva e detalhad
 ---
 
 > *Nota: O arquivo original do projeto (`.pbix`) está disponível neste repositório para download e testes completos.*
+> <img width="1361" height="719" alt="Pagina 1" src="https://github.com/user-attachments/assets/cf34f893-11a6-4874-b2d8-f0283545df54" />
+<img width="1356" height="707" alt="pagina 2" src="https://github.com/user-attachments/assets/be55308d-1f2c-4a2d-9746-0ff9595e73c4" />
